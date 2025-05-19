@@ -1,4 +1,6 @@
-# 🚀 Baratul Khan — Cybersecurity & Systems Professional
+<div align="center">
+<h1># 🚀 Baratul Khan — Cybersecurity & Systems Professional</h1>
+</div>
 
 > **Securing infrastructures. Optimizing networks. Automating Linux systems.**  
 > Delivering real-world solutions that drive business continuity, resilience, and growth.
