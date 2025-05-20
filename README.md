@@ -35,7 +35,7 @@ Each repository represents a pillar of my expertise — packed with tested scrip
 |-------------------------|-----------------------------------------------------|------------------------------------------------------|---------------------------------------------------|
 | **Linux Administration**| Efficient server management & automation            | Cut manual workload, boost uptime, enforce policies  | [linux-administration](https://github.com/InfoSec01/linux-administration/blob/main/README.md) |
 | **Network Administration** | Secure network design & troubleshooting            | Ensure connectivity, mitigate breaches                | [network-administration](https://github.com/InfoSec01/Network-Administration/blob/main/README.md) |
-| **Information Security** | Policies, audits, and security hardening             | Protect data, maintain compliance                      | [information-security](https://https://github.com/InfoSec01/information-security/blob/main/README.md) |
+| **Information Security** | Policies, audits, and security hardening             | Protect data, maintain compliance                      | [information-security](https://github.com/InfoSec01/information-security/blob/main/README.md) |
 | **Penetration Testing**  | Ethical hacking labs & vulnerability assessments     | Identify and remediate risks before attackers do       | [penetration-testing](https://github.com/InfoSec01/VAPT-Report/blob/main/README.md) |
 | **Frontend Development Basics**   | Understanding of HTML CSS & Javascript   | Scale operations, reduce errors, improve reliability   | [Frontend development](https://infosec01.github.io/ufodemo/) |
 
