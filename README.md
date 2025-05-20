@@ -35,9 +35,9 @@ Each repository represents a pillar of my expertise — packed with tested scrip
 |-------------------------|-----------------------------------------------------|------------------------------------------------------|---------------------------------------------------|
 | **Linux Administration**| Efficient server management & automation            | Cut manual workload, boost uptime, enforce policies  | [linux-administration](https://github.com/InfoSec01/linux-administration) |
 | **Network Administration** | Secure network design & troubleshooting            | Ensure connectivity, mitigate breaches                | [network-administration](https://github.com/InfoSec01/network-administration) |
-| **Information Security** | Policies, audits, and security hardening             | Protect data, maintain compliance                      | [information-security](https://github.com/yourusername/information-security) |
+| **Information Security** | Policies, audits, and security hardening             | Protect data, maintain compliance                      | [information-security](https://github.com/InfoSec01/information-security) |
 | **Penetration Testing**  | Ethical hacking labs & vulnerability assessments     | Identify and remediate risks before attackers do       | [penetration-testing](https://github.com/InfoSec01/VAPT-Report) |
-| **Automation Scripts**   | Bash & PowerShell scripts for repeatable workflows   | Scale operations, reduce errors, improve reliability   | [automation-scripts](https://github.com/yourusername/automation-scripts) |
+| **Frontend Development Basics**   | Bash & PowerShell scripts for repeatable workflows   | Scale operations, reduce errors, improve reliability   | [Frontend development](https://github.com/InfoSec01/infosec01.github.io) |
 
 ---
 
