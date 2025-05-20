@@ -9,7 +9,7 @@
 
 ### About Me
 
-I’m Baratul Khan, a seasoned professional specializing in **System Administration, Linux & Network Management, Information Security, and Penetration Testing**. With hands-on expertise backed by rigorous training and real-world application, I engineer robust IT environments and implement security measures that safeguard critical assets and optimize operational efficiency.
+I’m Baratul Khan, a seasoned professional specializing in **System Administration, Linux & Network Management, Information Security, Penetration Testing, and Frontend Development**. With hands-on expertise backed by rigorous training and real-world application, I engineer robust IT environments and implement security measures that safeguard critical assets and optimize operational efficiency.
 
 This GitHub is a curated portfolio of my work—each project is crafted not only as a demonstration of technical skill but as a blueprint for how organizations can build secure, scalable, and manageable systems.
 
@@ -37,7 +37,7 @@ Each repository represents a pillar of my expertise — packed with tested scrip
 | **Network Administration** | Secure network design & troubleshooting            | Ensure connectivity, mitigate breaches                | [network-administration](https://github.com/InfoSec01/Network-Administration/blob/main/README.md) |
 | **Information Security** | Policies, audits, and security hardening             | Protect data, maintain compliance                      | [information-security](https://github.com/InfoSec01/information-security/blob/main/README.md) |
 | **Penetration Testing**  | Ethical hacking labs & vulnerability assessments     | Identify and remediate risks before attackers do       | [penetration-testing](https://github.com/InfoSec01/VAPT-Report/blob/main/README.md) |
-| **Frontend Development Basics**   | Understanding of HTML CSS & Javascript   | Scale operations, reduce errors, improve reliability   | [Frontend development](https://infosec01.github.io/ufodemo/) |
+| **Frontend Development Basics**   | Build clean, responsive interfaces using HTML, CSS & JavaScript   | Improve usability, enhance accessibility, support cross-device experience   | [Frontend development](https://infosec01.github.io/ufodemo/) |
 
 ---
 
