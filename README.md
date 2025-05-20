@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/InfoSec01/InfoSec01/blob/main/coollogo_com-2895276.png" alt="Banner" width="800"/>
+</p>
+
 <div align="center">
 <h1># 🚀 Baratul Khan — Cybersecurity & Systems Professional</h1>
 </div>
