@@ -13,7 +13,7 @@
 
 ### About Me
 
-I’m Baratul Khan, a seasoned professional specializing in **System Administration, Linux & Network Management, Information Security, Penetration Testing, and Frontend Development**. With hands-on expertise backed by rigorous training and real-world application, I engineer robust IT environments and implement security measures that safeguard critical assets and optimize operational efficiency.
+My name is Baratul Khan, an aspiring IT professional with hands-on experience in System Administration, Linux & Network Management, Information Security, Penetration Testing, and Frontend Development. Through intensive training and a self-built home lab, I’ve applied real-world concepts to build secure, functional environments—configuring systems, managing networks, and simulating security operations to strengthen my skills and prepare for enterprise-level challenges.
 
 This GitHub is a curated portfolio of my work—each project is crafted not only as a demonstration of technical skill but as a blueprint for how organizations can build secure, scalable, and manageable systems.
 
