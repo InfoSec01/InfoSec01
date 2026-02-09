@@ -130,7 +130,7 @@ This mirrors how:
 
 ## 🎯 What I’m Looking For
 
-- ✅ 100% Remote roles (EU-based employer)
+- ✅ 100% Remote roles
 - ✅ English working environment
 - ✅ IT Support / SysAdmin / Network-adjacent roles
 - ✅ Long-term growth into senior infrastructure or cloud roles
