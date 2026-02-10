@@ -29,8 +29,8 @@ I don’t just study theory. I **build, break, fix, document, and secure systems
 This GitHub is intentionally structured to support **remote, English-speaking roles**, including:
 
 - IT Support Engineer (L1 / L2)
-- Junior / Associate System Administrator
-- Junior Network Administrator
+- Associate System Administrator (Junior-Mid)
+- Network Administrator (Junior-Mid)
 - Linux Administrator (Junior–Mid)
 - Technical Support Engineer (Infrastructure-focused)
 
