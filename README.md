@@ -9,8 +9,6 @@
 
 **100% Hands-On | Production-Focused | Remote-Ready**
 
-Supporting users, systems, and networks the way modern European companies actually operate.
-
 </div>
 
 ---
