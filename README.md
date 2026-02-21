@@ -1,153 +1,194 @@
 <p align="center">
-  <img src="https://github.com/InfoSec01/InfoSec01/blob/main/coollogo_com-2895276.png" alt="Banner" width="900"/>
+  <img src="https://github.com/InfoSec01/InfoSec01/blob/main/coollogo_com-2895276.png" width="900"/>
 </p>
 
 <div align="center">
 
-# 🚀 Baratul Khan  
-## IT Support • Linux & Network Administration • Infrastructure Engineering
-
-**100% Hands-On | Production-Focused | Remote-Ready**
+# Baratul Khan
+## Infrastructure • Systems Administration • IT Operations • Network Engineering
 
 </div>
 
 ---
 
-## 👋 About Me
+# About Me
 
-I am an **IT & Infrastructure professional** with strong hands-on experience across:
+I design and manage enterprise-style lab environments that reflect real-world infrastructure operations.
 
-- **Linux system administration**
-- **Network administration & troubleshooting**
-- **Windows Server & Active Directory**
-- **Security-aware IT operations**
+My work focuses on structured system deployment, domain management, network configuration, security controls, and operational troubleshooting across Windows and Linux environments.
 
-I don’t just study theory. I **build, break, fix, document, and secure systems** the same way internal IT teams and MSPs do across Europe.
+Each repository demonstrates hands-on configuration, issue simulation, root-cause analysis, and clear technical documentation.
 
-This GitHub is intentionally structured to support **remote, English-speaking roles**, including:
+I approach infrastructure methodically:
 
-- IT Support Engineer (L1 / L2)
-- Associate System Administrator (Junior-Mid)
-- Network Administrator (Junior-Mid)
-- Linux Administrator (Junior–Mid)
-- Technical Support Engineer (Infrastructure-focused)
-
-Every project here demonstrates:
-- Real enterprise tools
-- Practical troubleshooting workflows
-- Clear documentation written for teams
-- A mindset aligned with **uptime, security, and business continuity**
+Plan → Deploy → Validate → Break → Troubleshoot → Secure → Document → Improve
 
 ---
 
-## 🧠 Core Skill Areas
+# Core Competencies
 
-<p align="center">
+## Systems Administration
+- Active Directory deployment and management
+- Group Policy configuration and enforcement
+- User and group lifecycle management
+- NTFS permissions and file services
+- Service and process troubleshooting
+- Remote administration using RSAT
 
-![Linux](https://img.shields.io/badge/Linux-Enterprise%20Administration-FCC624?logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows%20Server-Active%20Directory-0078D6?logo=windows&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-VLANs%20%7C%20Routing%20%7C%20NAT-1BA0D7)
-![Security](https://img.shields.io/badge/Security-Firewalls%20%7C%20IDS%20%7C%20Hardening-CC0000)
-![Remote Support](https://img.shields.io/badge/Remote%20Support-Troubleshooting%20%7C%20Tickets-03363D)
+## Windows Server Environment
+- Windows Server 2022 domain configuration
+- DNS and DHCP role implementation
+- Domain join operations
+- Authentication troubleshooting
+- Organizational Unit structuring
+- Policy inheritance and enforcement testing
 
-</p>
+## Linux Administration
+- User and permission management
+- SSH configuration and hardening
+- Service control using systemctl
+- Log analysis and monitoring
+- Backup and restore automation
+- Cron scheduling
 
----
+## Network Infrastructure
+- VLAN design and segmentation
+- Inter-VLAN routing
+- NAT configuration
+- DNS and DHCP services
+- ACL implementation
+- Packet analysis and traffic diagnostics
 
-## 🧰 Technologies & Tools I Use
+## Infrastructure Security
+- Host-based firewall configuration
+- IDS deployment and monitoring
+- Web application hardening
+- Authentication concepts (Kerberos, LDAP)
+- Secure configuration practices
 
-### 🖥 Operating Systems
-- Linux (Ubuntu, Debian, Kali)
-- Windows Server 2019
-- Windows 10 (client environments)
-
-### 🌐 Networking & Infrastructure
-- VLANs & Trunking (802.1Q)
-- Inter-VLAN Routing (VyOS)
-- NAT, DNS, DHCP
-- ACLs & network segmentation
-- GNS3, VirtualBox, Wireshark
-
-### ⚙️ System Administration
-- User & group management
-- Permissions, ownership, umask
-- systemctl, services & process troubleshooting
-- Backup & restore (rsync, tar, cron)
-- Centralized logging (rsyslog, logrotate)
-
-### 🔐 Security & Hardening
-- firewalld, host-based firewalling
-- Snort IDS & traffic analysis
-- ModSecurity + OWASP CRS
-- OpenSSL, hashing, HMAC
-- Authentication concepts (LDAP, Kerberos)
-
-### 🛠 Scripting & Automation
-- Bash
-- PowerShell (fundamentals)
-- Python (automation basics)
-
----
-
-## 📂 Featured Projects (Aligned to Job Roles)
-
-> These repositories are selected because they **directly match IT Support, SysAdmin, Network Admin, and MSP job requirements**.
-
-| Job Function | What This Demonstrates | Repository |
-|-------------|------------------------|-----------|
-| **Linux / System Administration** | User management, services, networking, backups, logging, troubleshooting | 🔗 https://github.com/InfoSec01/linux-administration/blob/main/README.md |
-| **Network Administration** | VLANs, routing, ACLs, NAT, enterprise design & diagnostics | 🔗 https://github.com/InfoSec01/Network-Administration/blob/main/README.md |
-| **Infrastructure Security** | Firewalls, IDS, authentication, web security, cryptography | 🔗 https://github.com/InfoSec01/information-security/blob/main/README.md |
+## Automation & Scripting
+- Bash scripting
+- PowerShell fundamentals
+- Python for administrative tasks
 
 ---
 
-## 🧪 How This Reflects Real IT Work
+# Systems Administration Lab
 
-✔ Multi-VM enterprise-style lab environments  
-✔ Simulated outages and misconfigurations  
-✔ Industry-standard commands and tooling  
-✔ Documentation written like internal IT knowledge bases  
-✔ Focus on **availability, security, and recovery**
+Repository:
+https://github.com/InfoSec01/windows-server-lab/blob/main/README.md
 
-This mirrors how:
-- Internal IT teams operate
-- MSPs support multiple clients
-- Remote IT engineers troubleshoot production systems
+Enterprise-style Windows Server environment built using virtualization.
 
----
+Environment:
+- Windows Server 2022 (Domain Controller)
+- Windows 10 Pro (Domain-joined client)
+- VirtualBox / VMware Workstation
 
-## 🧩 How I Add Value Quickly
+Implemented Services:
+- Active Directory Domain Services
+- Organizational Units and role-based user design
+- Group Policy Management
+- File and Storage Services with controlled permissions
+- DNS for internal name resolution
+- DHCP for IP address management
+- Remote Server Administration Tools
 
-- Strong troubleshooting mindset (network → system → service → user)
-- Security-aware by default (least privilege, logging, segmentation)
-- Clear documentation that scales with teams
-- Comfortable in **remote, English-only environments**
-- Fast learner with hands-on labs designed to shorten ramp-up time
-
----
-
-## 🎯 What I’m Looking For
-
-- ✅ 100% Remote roles
-- ✅ English working environment
-- ✅ IT Support / SysAdmin / Network-adjacent roles
-- ✅ Long-term growth into senior infrastructure or cloud roles
+Operational Scenarios Practiced:
+- Domain join troubleshooting
+- DNS resolution failures
+- Group Policy processing issues
+- Authentication debugging
+- Shared folder access control conflicts
+- VM recovery and configuration correction
 
 ---
 
-## 📬 Contact
+# Linux Administration Lab
 
-If you’re hiring for:
-- IT Support Engineer (L1 / L2)
-- System Administrator
+Repository:
+https://github.com/InfoSec01/linux-administration/blob/main/README.md
+
+Focused on lifecycle management, command-line troubleshooting, and service reliability.
+
+Includes:
+- User and group administration
+- File permission modeling
+- Service management
+- Logging configuration
+- Backup automation
+- System monitoring
+
+---
+
+# Network Administration Lab
+
+Repository:
+https://github.com/InfoSec01/Network-Administration/blob/main/README.md
+
+Segmented network environment designed to simulate enterprise routing.
+
+Includes:
+- VLAN segmentation
+- Inter-VLAN routing
+- NAT configuration
+- ACL enforcement
+- Traffic inspection and diagnostics
+
+---
+
+# Infrastructure Security Lab
+
+Repository:
+https://github.com/InfoSec01/information-security/blob/main/README.md
+
+Security controls applied across systems and network layers.
+
+Includes:
+- Firewall configuration
+- Intrusion detection deployment
+- Web application firewall configuration
+- Authentication modeling
+- Secure configuration validation
+
+---
+
+# How I Work
+
+- Structured documentation for every environment
+- Layered troubleshooting approach (network → system → service → user)
+- Security-first configuration mindset
+- Controlled testing before validation
+- Focus on system stability and recoverability
+
+---
+
+# Professional Alignment
+
+This work aligns with responsibilities typically associated with:
+
+- Systems Administrator
+- Windows Server Administrator
+- Linux Systems Administrator
 - Network Administrator
+- Infrastructure Engineer
+- IT Operations Engineer
 - Technical Support Engineer
-
-Let’s talk.
-
-📧 **baratulkhan@gmail.com**
+- Platform Support Engineer
+- NOC Engineer
+- Infrastructure Support Specialist
+- Identity & Access Administrator
+- Cloud Operations Associate
 
 ---
 
-> *Reliable systems don’t happen by accident — they’re built, tested, monitored, and documented.*  
-> — Baratul Khan
+# Contact
+
+baratulkhan@gmail.com
+
+---
+
+Reliable systems are built intentionally.
+They are designed, tested, secured, and documented.
+
+Baratul Khan
