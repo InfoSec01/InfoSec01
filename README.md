@@ -2,193 +2,179 @@
   <img src="https://github.com/InfoSec01/InfoSec01/blob/main/coollogo_com-2895276.png" width="900"/>
 </p>
 
-<div align="center">
+<h1 align="center">Baratul Khan</h1>
+<h3 align="center">Infrastructure Engineering • Systems Administration • Network Operations</h3>
 
-# Baratul Khan
-## Infrastructure • Systems Administration • IT Operations • Network Engineering
-
-</div>
-
----
-
-# About Me
-
-I design and manage enterprise-style lab environments that reflect real-world infrastructure operations.
-
-My work focuses on structured system deployment, domain management, network configuration, security controls, and operational troubleshooting across Windows and Linux environments.
-
-Each repository demonstrates hands-on configuration, issue simulation, root-cause analysis, and clear technical documentation.
-
-I approach infrastructure methodically:
-
-Plan → Deploy → Validate → Break → Troubleshoot → Secure → Document → Improve
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_Server-Active_Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-System_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Networking-VLANs_•_Routing_•_NAT-1BA0D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-Infrastructure_Protection-CC0000?style=for-the-badge"/>
+</p>
 
 ---
 
-# Core Competencies
+## 🚀 About Me
 
-## Systems Administration
-- Active Directory deployment and management
-- Group Policy configuration and enforcement
-- User and group lifecycle management
-- NTFS permissions and file services
-- Service and process troubleshooting
-- Remote administration using RSAT
+I design and manage enterprise-style infrastructure environments using virtualization to simulate real operational systems.
 
-## Windows Server Environment
-- Windows Server 2022 domain configuration
-- DNS and DHCP role implementation
-- Domain join operations
-- Authentication troubleshooting
-- Organizational Unit structuring
-- Policy inheritance and enforcement testing
+My focus is structured deployment, authentication management, network segmentation, security enforcement, and systematic troubleshooting across Windows and Linux environments.
 
-## Linux Administration
-- User and permission management
-- SSH configuration and hardening
-- Service control using systemctl
-- Log analysis and monitoring
-- Backup and restore automation
-- Cron scheduling
+Every project reflects:
+- Multi-system architecture
+- Controlled misconfiguration testing
+- Root-cause troubleshooting
+- Clear technical documentation
+- Stability and recovery validation
 
-## Network Infrastructure
-- VLAN design and segmentation
-- Inter-VLAN routing
-- NAT configuration
-- DNS and DHCP services
-- ACL implementation
-- Packet analysis and traffic diagnostics
-
-## Infrastructure Security
-- Host-based firewall configuration
-- IDS deployment and monitoring
-- Web application hardening
-- Authentication concepts (Kerberos, LDAP)
-- Secure configuration practices
-
-## Automation & Scripting
-- Bash scripting
-- PowerShell fundamentals
-- Python for administrative tasks
+Infrastructure is not theory — it is built, tested, corrected, and secured.
 
 ---
 
-# Systems Administration Lab
+# 🖥 Systems Administration Lab
 
-Repository:
+🔗 **Repository**  
 https://github.com/InfoSec01/windows-server-lab/blob/main/README.md
 
-Enterprise-style Windows Server environment built using virtualization.
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_Server_2022-Domain_Controller-0078D6?style=flat-square&logo=windows"/>
+  <img src="https://img.shields.io/badge/Active_Directory-AD_DS-2B579A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Group_Policy-GPMC-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DNS_&_DHCP-Network_Services-0A66C2?style=flat-square"/>
+</p>
 
-Environment:
+### Environment Architecture
 - Windows Server 2022 (Domain Controller)
 - Windows 10 Pro (Domain-joined client)
 - VirtualBox / VMware Workstation
 
-Implemented Services:
+### Services Implemented
 - Active Directory Domain Services
-- Organizational Units and role-based user design
-- Group Policy Management
-- File and Storage Services with controlled permissions
-- DNS for internal name resolution
-- DHCP for IP address management
+- Organizational Units and role-based structure
+- Group Policy configuration and enforcement
+- NTFS file permissions and shared access control
+- DNS internal name resolution
+- DHCP IP allocation
 - Remote Server Administration Tools
 
-Operational Scenarios Practiced:
-- Domain join troubleshooting
-- DNS resolution failures
-- Group Policy processing issues
-- Authentication debugging
-- Shared folder access control conflicts
-- VM recovery and configuration correction
+### Operational Testing
+- Domain join failure troubleshooting
+- DNS resolution debugging
+- Policy inheritance validation
+- Authentication and permission conflict resolution
+- Controlled configuration rollback
 
 ---
 
-# Linux Administration Lab
+# 🐧 Linux Administration Lab
 
-Repository:
+🔗 **Repository**  
 https://github.com/InfoSec01/linux-administration/blob/main/README.md
 
-Focused on lifecycle management, command-line troubleshooting, and service reliability.
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Ubuntu_•_Debian-FCC624?style=flat-square&logo=linux"/>
+  <img src="https://img.shields.io/badge/Systemctl-Service_Control-333333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Bash-Automation-4EAA25?style=flat-square&logo=gnubash"/>
+</p>
 
-Includes:
-- User and group administration
+### Focus Areas
+- User and group lifecycle management
+- SSH configuration and hardening
+- Service troubleshooting
+- Logging and monitoring
+- Backup automation using cron
 - File permission modeling
-- Service management
-- Logging configuration
-- Backup automation
-- System monitoring
 
 ---
 
-# Network Administration Lab
+# 🌐 Network Administration Lab
 
-Repository:
+🔗 **Repository**  
 https://github.com/InfoSec01/Network-Administration/blob/main/README.md
 
-Segmented network environment designed to simulate enterprise routing.
+<p align="center">
+  <img src="https://img.shields.io/badge/VLAN-Segmentation-1BA0D7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Routing-Inter--VLAN-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NAT-Address_Translation-0052CC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=flat-square&logo=wireshark"/>
+</p>
 
-Includes:
+### Architecture Design
 - VLAN segmentation
 - Inter-VLAN routing
+- Access Control Lists
 - NAT configuration
-- ACL enforcement
-- Traffic inspection and diagnostics
+- Traffic inspection and packet diagnostics
 
 ---
 
-# Infrastructure Security Lab
+# 🔐 Infrastructure Security Lab
 
-Repository:
+🔗 **Repository**  
 https://github.com/InfoSec01/information-security/blob/main/README.md
 
-Security controls applied across systems and network layers.
+<p align="center">
+  <img src="https://img.shields.io/badge/Firewall-Host_Based-CC0000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IDS-Snort-990000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Web_Security-ModSecurity-800000?style=flat-square"/>
+</p>
 
-Includes:
-- Firewall configuration
+### Security Controls Applied
+- Firewall configuration and rule validation
 - Intrusion detection deployment
-- Web application firewall configuration
-- Authentication modeling
-- Secure configuration validation
+- Web application hardening
+- Secure authentication modeling
+- Traffic and log analysis
 
 ---
 
-# How I Work
+# 🧠 Core Technical Areas
 
-- Structured documentation for every environment
-- Layered troubleshooting approach (network → system → service → user)
-- Security-first configuration mindset
-- Controlled testing before validation
-- Focus on system stability and recoverability
-
----
-
-# Professional Alignment
-
-This work aligns with responsibilities typically associated with:
-
-- Systems Administrator
-- Windows Server Administrator
-- Linux Systems Administrator
-- Network Administrator
-- Infrastructure Engineer
-- IT Operations Engineer
-- Technical Support Engineer
-- Platform Support Engineer
-- NOC Engineer
-- Infrastructure Support Specialist
-- Identity & Access Administrator
-- Cloud Operations Associate
+<p align="center">
+  <img src="https://img.shields.io/badge/Active_Directory-Identity_Management-2B579A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Networking-Infrastructure-1BA0D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-Operational_Hardening-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-Bash_•_PowerShell_•_Python-4B8BBE?style=for-the-badge"/>
+</p>
 
 ---
 
-# Contact
+# 🧩 Operational Approach
+
+- Structured deployment methodology  
+- Layered troubleshooting (Network → System → Service → User)  
+- Security-first configuration mindset  
+- Controlled failure simulation  
+- Documentation aligned with internal IT standards  
+
+---
+
+# 💼 Professional Scope Alignment
+
+- Systems Administrator  
+- Windows Server Administrator  
+- Linux Systems Administrator  
+- Network Administrator  
+- Infrastructure Engineer  
+- IT Operations Engineer  
+- Technical Support Engineer  
+- Platform Support Engineer  
+- NOC Engineer  
+- Infrastructure Support Specialist  
+- Identity & Access Administrator  
+- Cloud Operations Associate  
+- Endpoint Management Specialist  
+
+---
+
+# 📫 Contact
 
 baratulkhan@gmail.com
 
 ---
 
-Reliable systems are built intentionally.
-They are designed, tested, secured, and documented.
-
-Baratul Khan
+<p align="center">
+  Reliable infrastructure is intentional.<br>
+  It is engineered, validated, secured, and documented.
+</p>
