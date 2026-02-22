@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/InfoSec01/InfoSec01/blob/main/coollogo_com-2895276.png" width="850"/>
 </p>
@@ -9,145 +10,156 @@ IT Infrastructure • Systems Administration • Network Operations
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Infrastructure-Engineering-2B579A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Systems-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Networking-Design_&_Troubleshooting-1BA0D7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operations-IT_Support-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Infrastructure-2B579A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Focus-Networking-1BA0D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Operations-CC0000?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧭 Professional Summary
-
-Hands-on infrastructure environments built to simulate real enterprise IT operations.
-
-These projects demonstrate structured deployment, layered troubleshooting, service dependency awareness, and operational validation across Windows and Linux systems.
-
-The focus is stability, visibility, access control, and incident-style problem solving.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=22&center=true&vCenter=true&width=800&lines=Enterprise+Infrastructure+Simulation;Structured+Troubleshooting+Methodology;Identity+%7C+Network+%7C+System+Operations;Operational+Validation+Environments" />
+</p>
 
 ---
 
-# 🖥 Windows Infrastructure & Identity Services
+## 🧭 Professional Overview
+
+This repository serves as a centralized hub for structured infrastructure and operations environments.
+
+Each environment demonstrates:
+
+- Layered troubleshooting methodology  
+- Identity management  
+- Network segmentation  
+- Service deployment  
+- Log-based diagnostics  
+- Controlled failure simulation  
+- Configuration validation  
+
+The focus is operational reliability and structured system management.
+
+---
+
+# 🖥 <details>
+<summary>Windows Infrastructure & Identity Services</summary>
 
 🔗 https://github.com/InfoSec01/windows-server-lab
 
-### What This Demonstrates
-
-- Active Directory domain deployment
+### Implemented Components
+- Active Directory Domain Services
 - DNS integration
 - DHCP configuration & authorization
 - Group Policy management
-- Windows client domain integration
+- Windows 10 domain integration
+
+### Operational Focus
 - Authentication troubleshooting
-- IP addressing design (192.168.56.0/24)
-
-### Operational Skills
-
-- Identity lifecycle management
 - Name resolution diagnostics
-- Policy inheritance validation
+- Policy inheritance testing
 - Permission conflict resolution
-- Controlled rollback testing
+- Controlled rollback validation
+
+</details>
 
 ---
 
-# 🌐 Network Operations & Segmentation
+# 🌐 <details>
+<summary>Network Operations & Segmentation</summary>
 
 🔗 https://github.com/InfoSec01/Network-Administration
 
-### What This Demonstrates
-
+### Implemented Components
 - VLAN segmentation
 - Inter-VLAN routing
 - NAT configuration
-- Traffic flow validation
+- Traffic analysis
 - Packet inspection
-- Network troubleshooting workflows
 
-### Operational Skills
-
+### Operational Focus
 - Layer-based diagnostics
 - Connectivity isolation
-- Gateway validation
 - Routing verification
-- Traffic analysis using Wireshark
+- Network troubleshooting workflows
+
+</details>
 
 ---
 
-# 🐧 Linux Systems Operations
+# 🐧 <details>
+<summary>Linux Systems Operations</summary>
 
 🔗 https://github.com/InfoSec01/linux-administration
 
-### What This Demonstrates
-
+### Implemented Components
 - User & group management
-- File permissions & access control
+- File permissions
 - SSH configuration
 - Service management
 - Log monitoring
 - Backup automation
 
-### Operational Skills
-
-- System reliability management
-- Access governance
-- Log-driven troubleshooting
+### Operational Focus
+- System reliability
+- Access control enforcement
+- Log-driven diagnostics
 - Recovery validation
-- Automation fundamentals
+
+</details>
 
 ---
 
-# 🔐 Security & Defensive Controls
+# 🔐 <details>
+<summary>Security & Defensive Controls</summary>
 
 🔗 https://github.com/InfoSec01/information-security
 
-### What This Demonstrates
-
+### Implemented Components
 - Host-based firewall configuration
 - Web application hardening
 - Intrusion detection system deployment
 - Authentication modeling
-- Encryption & hashing implementation
+- Encryption & hashing
 
-### Operational Skills
-
+### Operational Focus
 - Layered defense validation
 - Traffic monitoring
 - Security boundary enforcement
-- Log correlation
-- Controlled testing of defensive configurations
+- Log correlation analysis
+
+</details>
 
 ---
 
-# 🛠 Engineering Approach
+# 🛠 Engineering Methodology
 
-- Structured troubleshooting methodology
-- Service dependency awareness
-- Change validation before and after configuration
-- Log-first diagnostic strategy
-- Controlled failure simulation
-- Clear documentation practices
+- Structured troubleshooting approach  
+- Service dependency awareness  
+- Log-first diagnostic workflow  
+- Controlled misconfiguration testing  
+- Change validation process  
+- Documentation discipline  
 
 ---
 
-# 🎯 Role Alignment
+# 🎯 Professional Alignment
 
 This portfolio aligns with:
 
-- IT Support Specialist (L1/L2)
-- Service Desk Analyst
-- Infrastructure Support Engineer
-- Technical Support Engineer
-- Systems Support Engineer
-- Desktop Support Engineer
-- NOC Engineer (Junior)
-- Junior Windows Administrator
-- Junior Linux Administrator
-- IT Operations Specialist
+- IT Support Specialist (L1/L2)  
+- Service Desk Analyst  
+- Infrastructure Support Engineer  
+- Technical Support Engineer  
+- Systems Support Engineer  
+- Desktop Support Engineer  
+- NOC Engineer (Junior)  
+- Junior Windows Administrator  
+- Junior Linux Administrator  
+- IT Operations Specialist  
 
 ---
 
 # 📫 Contact
 
 baratulkhan@gmail.com
-
