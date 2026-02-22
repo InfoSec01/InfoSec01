@@ -18,38 +18,30 @@ IT Infrastructure • Systems Administration • Network Operations
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=22&center=true&vCenter=true&width=850&lines=Infrastructure+Engineering+Environment;Structured+Troubleshooting+Methodology;Identity+%7C+Network+%7C+System+Operations;Operational+Validation+Framework" />
+</p>
+
+---
+
 ## 🧭 Professional Overview
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%">
+<td align="center">🏗 Infrastructure Design</td>
+<td align="center">🌐 Network Operations</td>
+<td align="center">🔐 Systems & Security</td>
+</tr>
 
-### 🏗 Infrastructure Focus
-- Windows Server environments  
-- Active Directory management  
-- DNS & DHCP services  
-- Identity lifecycle control  
-
+<tr>
+<td align="center">
+Active Directory • DNS • DHCP
 </td>
-
-<td width="33%">
-
-### 🌐 Network Operations
-- VLAN segmentation  
-- Inter-VLAN routing  
-- NAT configuration  
-- Traffic validation  
-
+<td align="center">
+VLANs • Routing • NAT
 </td>
-
-<td width="33%">
-
-### 🔐 Systems & Security
-- Linux administration  
-- Service troubleshooting  
-- Firewall configuration  
-- Log-based diagnostics  
-
+<td align="center">
+Linux Admin • Firewall • Logging
 </td>
 </tr>
 </table>
@@ -60,36 +52,17 @@ IT Infrastructure • Systems Administration • Network Operations
 
 🔗 https://github.com/InfoSec01/windows-server-lab
 
-<table>
-<tr>
-<td width="33%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Active_Directory-AD_DS-2B579A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DNS-Internal_Resolution-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DHCP-IP_Management-1BA0D7?style=flat-square"/>
+</p>
 
-### Core Services
-- Active Directory  
-- DNS integration  
-- DHCP configuration  
-
-</td>
-
-<td width="33%">
-
-### Identity Management
-- User creation  
-- Group policy enforcement  
-- Organizational Units  
-
-</td>
-
-<td width="33%">
-
-### Validation
-- Domain join testing  
-- Authentication troubleshooting  
-- Permission resolution  
-
-</td>
-</tr>
-</table>
+**Core Capabilities:**
+- Domain deployment
+- Identity management
+- Policy enforcement
+- Authentication troubleshooting
 
 ---
 
@@ -97,36 +70,17 @@ IT Infrastructure • Systems Administration • Network Operations
 
 🔗 https://github.com/InfoSec01/Network-Administration
 
-<table>
-<tr>
-<td width="33%">
+<p align="center">
+  <img src="https://img.shields.io/badge/VLAN-Segmentation-1BA0D7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Routing-Inter_VLAN-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NAT-Address_Translation-0052CC?style=flat-square"/>
+</p>
 
-### Architecture
-- VLAN design  
-- Network segmentation  
-- Gateway configuration  
-
-</td>
-
-<td width="33%">
-
-### Routing
-- Inter-VLAN routing  
-- NAT translation  
-- Connectivity flow  
-
-</td>
-
-<td width="33%">
-
-### Diagnostics
-- Packet inspection  
-- Traffic analysis  
-- Troubleshooting workflows  
-
-</td>
-</tr>
-</table>
+**Core Capabilities:**
+- Network isolation
+- Traffic validation
+- Connectivity diagnostics
+- Packet analysis
 
 ---
 
@@ -134,36 +88,17 @@ IT Infrastructure • Systems Administration • Network Operations
 
 🔗 https://github.com/InfoSec01/linux-administration
 
-<table>
-<tr>
-<td width="33%">
+<p align="center">
+  <img src="https://img.shields.io/badge/User_Management-Access_Control-FCC624?style=flat-square&logo=linux"/>
+  <img src="https://img.shields.io/badge/Services-systemctl-333333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automation-Bash-4EAA25?style=flat-square"/>
+</p>
 
-### Administration
-- User & group control  
-- File permissions  
-- SSH configuration  
-
-</td>
-
-<td width="33%">
-
-### Services
-- systemctl management  
-- Process monitoring  
-- Log review  
-
-</td>
-
-<td width="33%">
-
-### Reliability
-- Backup automation  
-- Cron jobs  
-- Recovery validation  
-
-</td>
-</tr>
-</table>
+**Core Capabilities:**
+- Service management
+- Log monitoring
+- Permission control
+- Backup automation
 
 ---
 
@@ -171,79 +106,50 @@ IT Infrastructure • Systems Administration • Network Operations
 
 🔗 https://github.com/InfoSec01/information-security
 
-<table>
-<tr>
-<td width="33%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Firewall-Host_Based-CC0000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IDS-Snort-990000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Encryption-OpenSSL-800000?style=flat-square"/>
+</p>
 
-### Protection
-- Host firewall  
-- ModSecurity  
-- Web hardening  
-
-</td>
-
-<td width="33%">
-
-### Monitoring
-- Snort IDS  
-- Traffic alerts  
-- Log correlation  
-
-</td>
-
-<td width="33%">
-
-### Cryptography
-- AES encryption  
-- OpenSSL signatures  
-- Hash verification  
-
-</td>
-</tr>
-</table>
+**Core Capabilities:**
+- Traffic monitoring
+- Defensive configuration
+- Authentication modeling
+- Cryptographic validation
 
 ---
 
 ## 🛠 Engineering Methodology
 
-- Layer-based troubleshooting  
-- Service dependency awareness  
-- Log-first diagnostics  
-- Controlled failure simulation  
-- Configuration validation  
-- Structured documentation  
+<table width="100%">
+<tr>
+<td align="center">Layered Troubleshooting</td>
+<td align="center">Log-First Diagnostics</td>
+<td align="center">Change Validation</td>
+</tr>
+
+<tr>
+<td align="center">Service Dependency Awareness</td>
+<td align="center">Controlled Failure Testing</td>
+<td align="center">Structured Documentation</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Role Alignment
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%">
-
-- IT Support Specialist  
-- Service Desk Analyst  
-- Desktop Support Engineer  
-- End User Support  
-
+<td align="center">
+IT Support • Service Desk • Desktop Support
 </td>
-
-<td width="33%">
-
-- Infrastructure Support Engineer  
-- Technical Support Engineer  
-- Systems Support Engineer  
-- IT Operations Specialist  
-
+<td align="center">
+Infrastructure Support • Technical Support • IT Ops
 </td>
-
-<td width="33%">
-
-- Junior Windows Admin  
-- Junior Linux Admin  
-- NOC Engineer (Junior)  
-- Network Support Engineer  
-
+<td align="center">
+Junior Windows Admin • Junior Linux Admin • NOC
 </td>
 </tr>
 </table>
@@ -252,4 +158,6 @@ IT Infrastructure • Systems Administration • Network Operations
 
 ## 📫 Contact
 
+<p align="center">
 baratulkhan@gmail.com
+</p>
