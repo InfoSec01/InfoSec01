@@ -1,149 +1,149 @@
 <p align="center">
-  <img src="https://github.com/InfoSec01/InfoSec01/blob/main/coollogo_com-2895276.png" width="900"/>
+  <img src="https://github.com/InfoSec01/InfoSec01/blob/main/coollogo_com-2895276.png" width="850"/>
 </p>
 
 <h1 align="center">Baratul Khan</h1>
-<h3 align="center">Infrastructure & Operations Engineering</h3>
+
+<h3 align="center">
+IT Infrastructure • Systems Administration • Network Operations
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows_Server-Active_Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Systems_Engineering-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Networking-VLAN_•_Routing_•_NAT-1BA0D7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Security-Operational_Hardening-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Infrastructure-Engineering-2B579A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Systems-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Networking-Design_&_Troubleshooting-1BA0D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operations-IT_Support-CC0000?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🏗 Enterprise Infrastructure Simulation Environment
+## 🧭 Professional Summary
 
-This repository represents a structured enterprise-style infrastructure environment built using virtualization to simulate real-world IT operations.
+Hands-on infrastructure environments built to simulate real enterprise IT operations.
 
-The objective is not configuration practice — it is operational validation.
+These projects demonstrate structured deployment, layered troubleshooting, service dependency awareness, and operational validation across Windows and Linux systems.
 
-The environment is designed to model:
-
-- Centralized identity management
-- Network segmentation and traffic control
-- Service deployment and failure testing
-- Log-driven troubleshooting
-- Security enforcement and validation
-- Controlled misconfiguration and recovery
-
-Each system is built, tested, broken, analyzed, and restored.
+The focus is stability, visibility, access control, and incident-style problem solving.
 
 ---
 
-# 🧱 Architecture Overview
+# 🖥 Windows Infrastructure & Identity Services
 
-The environment includes:
+🔗 https://github.com/InfoSec01/windows-server-lab
 
-- Windows Server 2022 (Domain Controller)
-- Windows 10 Enterprise Client
-- Linux Server (Ubuntu / Debian)
-- Segmented VLAN network architecture
-- DNS and DHCP services
-- NAT and routing configuration
-- Host-based and network-based security controls
-- Log monitoring and traffic inspection
+### What This Demonstrates
 
-Architecture diagram:
+- Active Directory domain deployment
+- DNS integration
+- DHCP configuration & authorization
+- Group Policy management
+- Windows client domain integration
+- Authentication troubleshooting
+- IP addressing design (192.168.56.0/24)
 
-![Infrastructure Diagram](assets/architecture-diagram.png)
+### Operational Skills
 
----
-
-# 🔐 Identity & Access Management
-
-🔗 https://github.com/InfoSec01/windows-server-lab/blob/main/README.md
-
-- Active Directory Domain Services deployment
-- Organizational Unit design based on business roles
-- Group Policy design and inheritance modeling
-- NTFS and shared permission conflict testing
-- DNS internal resolution validation
-- Authentication failure troubleshooting
-- Controlled policy rollback and recovery
-
-Focus: Stability, identity control, and structured access governance.
+- Identity lifecycle management
+- Name resolution diagnostics
+- Policy inheritance validation
+- Permission conflict resolution
+- Controlled rollback testing
 
 ---
 
-# 🐧 Linux Systems Engineering
+# 🌐 Network Operations & Segmentation
 
-🔗 https://github.com/InfoSec01/linux-administration/blob/main/README.md
+🔗 https://github.com/InfoSec01/Network-Administration
 
-- User and group lifecycle control
-- SSH hardening and secure remote administration
-- Service lifecycle management (systemctl)
-- Log analysis using journalctl and syslog
-- Cron-based backup automation
-- Permission modeling and privilege separation
+### What This Demonstrates
 
-Focus: Service reliability, access control, and operational continuity.
-
----
-
-# 🌐 Network Operations
-
-🔗 https://github.com/InfoSec01/Network-Administration/blob/main/README.md
-
-- VLAN segmentation strategy
+- VLAN segmentation
 - Inter-VLAN routing
-- NAT boundary configuration
-- Access Control List implementation
-- Packet inspection using Wireshark
-- Traffic validation and segmentation testing
+- NAT configuration
+- Traffic flow validation
+- Packet inspection
+- Network troubleshooting workflows
 
-Focus: Controlled traffic flow, isolation, and diagnostic visibility.
+### Operational Skills
 
----
-
-# 🛡 Infrastructure Security Operations
-
-🔗 https://github.com/InfoSec01/information-security/blob/main/README.md
-
-- Host-based firewall enforcement
-- IDS deployment (Snort)
-- Web application hardening (ModSecurity)
-- Log-based anomaly detection
-- Attack surface reduction
-- Security control validation testing
-
-Focus: Layered security and detection capability.
+- Layer-based diagnostics
+- Connectivity isolation
+- Gateway validation
+- Routing verification
+- Traffic analysis using Wireshark
 
 ---
 
-# 🔎 Operational Methodology
+# 🐧 Linux Systems Operations
 
-The environment is built using an operations-first approach:
+🔗 https://github.com/InfoSec01/linux-administration
 
-- Layered troubleshooting model  
-  (Network → System → Service → Identity)
+### What This Demonstrates
 
+- User & group management
+- File permissions & access control
+- SSH configuration
+- Service management
+- Log monitoring
+- Backup automation
+
+### Operational Skills
+
+- System reliability management
+- Access governance
+- Log-driven troubleshooting
+- Recovery validation
+- Automation fundamentals
+
+---
+
+# 🔐 Security & Defensive Controls
+
+🔗 https://github.com/InfoSec01/information-security
+
+### What This Demonstrates
+
+- Host-based firewall configuration
+- Web application hardening
+- Intrusion detection system deployment
+- Authentication modeling
+- Encryption & hashing implementation
+
+### Operational Skills
+
+- Layered defense validation
+- Traffic monitoring
+- Security boundary enforcement
+- Log correlation
+- Controlled testing of defensive configurations
+
+---
+
+# 🛠 Engineering Approach
+
+- Structured troubleshooting methodology
+- Service dependency awareness
+- Change validation before and after configuration
+- Log-first diagnostic strategy
 - Controlled failure simulation
-
-- Log-driven root cause analysis
-
-- Recovery validation after misconfiguration
-
-- Documentation aligned to internal IT standards
+- Clear documentation practices
 
 ---
 
-# 📊 Scope Alignment
+# 🎯 Role Alignment
 
-This infrastructure portfolio aligns with responsibilities commonly seen in:
+This portfolio aligns with:
 
-- Infrastructure Engineer
-- Systems Administrator
-- Windows / Linux Administrator
-- IT Operations Engineer
-- Technical Operations Analyst
-- NOC Engineer
+- IT Support Specialist (L1/L2)
+- Service Desk Analyst
 - Infrastructure Support Engineer
-- Identity & Access Administrator
-- Network Support Engineer
-- Platform Support Engineer
+- Technical Support Engineer
+- Systems Support Engineer
+- Desktop Support Engineer
+- NOC Engineer (Junior)
+- Junior Windows Administrator
+- Junior Linux Administrator
+- IT Operations Specialist
 
 ---
 
@@ -151,8 +151,3 @@ This infrastructure portfolio aligns with responsibilities commonly seen in:
 
 baratulkhan@gmail.com
 
----
-
-<p align="center">
-  Reliable infrastructure is engineered, validated, monitored, and secured.
-</p>
