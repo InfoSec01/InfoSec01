@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/architecture-diagram.png" width="900"/>
+  <img src="https://github.com/InfoSec01/InfoSec01/blob/main/coollogo_com-2895276.png" width="900"/>
 </p>
 
 <h1 align="center">Baratul Khan</h1>
