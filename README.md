@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/InfoSec01/InfoSec01/blob/main/coollogo_com-2895276.png" width="850"/>
 </p>
@@ -19,80 +18,73 @@ IT Infrastructure • Systems Administration • Network Operations
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=22&center=true&vCenter=true&width=800&lines=Enterprise+Infrastructure+Simulation;Structured+Troubleshooting+Methodology;Identity+%7C+Network+%7C+System+Operations;Operational+Validation+Environments" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=22&center=true&vCenter=true&width=800&lines=Enterprise+Infrastructure+Simulation;Structured+Troubleshooting+Methodology;Identity+%7C+Network+%7C+System+Operations" />
 </p>
 
 ---
 
 ## 🧭 Professional Overview
 
-This repository serves as a centralized hub for structured infrastructure and operations environments.
+This repository serves as a structured hub for enterprise-style infrastructure environments.
 
 Each environment demonstrates:
 
-- Layered troubleshooting methodology  
-- Identity management  
-- Network segmentation  
-- Service deployment  
-- Log-based diagnostics  
-- Controlled failure simulation  
-- Configuration validation  
+- Identity management
+- Network segmentation
+- System administration
+- Service deployment
+- Log-based troubleshooting
+- Controlled failure testing
+- Configuration validation
 
 The focus is operational reliability and structured system management.
 
 ---
 
-# 🖥 <details>
-<summary>Windows Infrastructure & Identity Services</summary>
+## 🖥 Windows Infrastructure & Identity Services
 
 🔗 https://github.com/InfoSec01/windows-server-lab
 
-### Implemented Components
+**Core Components**
 - Active Directory Domain Services
 - DNS integration
-- DHCP configuration & authorization
+- DHCP configuration
 - Group Policy management
-- Windows 10 domain integration
+- Windows client domain integration
 
-### Operational Focus
+**Operational Focus**
 - Authentication troubleshooting
 - Name resolution diagnostics
-- Policy inheritance testing
+- Policy validation
 - Permission conflict resolution
-- Controlled rollback validation
-
-</details>
+- Controlled rollback testing
 
 ---
 
-# 🌐 <details>
-<summary>Network Operations & Segmentation</summary>
+## 🌐 Network Operations & Segmentation
 
 🔗 https://github.com/InfoSec01/Network-Administration
 
-### Implemented Components
+**Core Components**
 - VLAN segmentation
 - Inter-VLAN routing
 - NAT configuration
 - Traffic analysis
 - Packet inspection
 
-### Operational Focus
-- Layer-based diagnostics
-- Connectivity isolation
+**Operational Focus**
+- Layer-based troubleshooting
+- Connectivity validation
 - Routing verification
-- Network troubleshooting workflows
-
-</details>
+- Network diagnostics
 
 ---
 
-# 🐧 <details>
-<summary>Linux Systems Operations</summary>
+## 🐧 Linux Systems Operations
 
 🔗 https://github.com/InfoSec01/linux-administration
 
-### Implemented Components
+**Core Components**
 - User & group management
 - File permissions
 - SSH configuration
@@ -100,66 +92,59 @@ The focus is operational reliability and structured system management.
 - Log monitoring
 - Backup automation
 
-### Operational Focus
+**Operational Focus**
 - System reliability
 - Access control enforcement
 - Log-driven diagnostics
 - Recovery validation
 
-</details>
-
 ---
 
-# 🔐 <details>
-<summary>Security & Defensive Controls</summary>
+## 🔐 Security & Defensive Controls
 
 🔗 https://github.com/InfoSec01/information-security
 
-### Implemented Components
-- Host-based firewall configuration
+**Core Components**
+- Firewall configuration
 - Web application hardening
-- Intrusion detection system deployment
+- Intrusion detection
 - Authentication modeling
 - Encryption & hashing
 
-### Operational Focus
+**Operational Focus**
 - Layered defense validation
 - Traffic monitoring
 - Security boundary enforcement
-- Log correlation analysis
-
-</details>
+- Log correlation
 
 ---
 
-# 🛠 Engineering Methodology
+## 🛠 Engineering Methodology
 
-- Structured troubleshooting approach  
-- Service dependency awareness  
-- Log-first diagnostic workflow  
-- Controlled misconfiguration testing  
-- Change validation process  
-- Documentation discipline  
-
----
-
-# 🎯 Professional Alignment
-
-This portfolio aligns with:
-
-- IT Support Specialist (L1/L2)  
-- Service Desk Analyst  
-- Infrastructure Support Engineer  
-- Technical Support Engineer  
-- Systems Support Engineer  
-- Desktop Support Engineer  
-- NOC Engineer (Junior)  
-- Junior Windows Administrator  
-- Junior Linux Administrator  
-- IT Operations Specialist  
+- Structured troubleshooting approach
+- Service dependency awareness
+- Log-first diagnostics
+- Controlled misconfiguration testing
+- Change validation process
+- Documentation discipline
 
 ---
 
-# 📫 Contact
+## 🎯 Role Alignment
+
+- IT Support Specialist (L1/L2)
+- Service Desk Analyst
+- Infrastructure Support Engineer
+- Technical Support Engineer
+- Systems Support Engineer
+- Desktop Support Engineer
+- NOC Engineer (Junior)
+- Junior Windows Administrator
+- Junior Linux Administrator
+- IT Operations Specialist
+
+---
+
+## 📫 Contact
 
 baratulkhan@gmail.com
