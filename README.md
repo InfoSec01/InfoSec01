@@ -30,8 +30,8 @@ Enterprise-style infrastructure simulation designed to reflect real-world IT Sup
  • Service validation • Log-based troubleshooting • Controlled failure simulation  
 
 **Operational Emphasis:**  
- • Authentication diagnostics • DNS troubleshooting • Policy enforcement <br>
- • Permission auditing • Cross-platform administration • Structured issue resolution  
+ • Authentication diagnostics • DNS troubleshooting • Policy enforcement • Permission auditing <br>
+ • Cross-platform administration • Structured issue resolution  
 
 ---
 
