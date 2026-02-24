@@ -15,133 +15,242 @@ IT Infrastructure • Systems Administration • Network Operations
   <img src="https://img.shields.io/badge/Focus-Operations-CC0000?style=for-the-badge"/>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=22&center=true&vCenter=true&width=800&lines=Enterprise+Infrastructure+Simulation;Structured+Troubleshooting+Methodology;Identity+%7C+Network+%7C+System+Operations" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=22&center=true&vCenter=true&width=900&lines=Enterprise+Infrastructure+Simulation;Structured+Troubleshooting+Methodology;Identity+%7C+Network+%7C+System+Operations" />
 </p>
 
 ---
 
 ## 🧭 Professional Overview
 
-This repository serves as a structured hub for enterprise-style infrastructure environments.
+This repository serves as a structured hub for enterprise-style infrastructure simulations built to reflect real-world IT Support, Infrastructure, and Operations environments.
 
-Each environment demonstrates:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Identity management
-- Network segmentation
-- System administration
-- Service deployment
-- Log-based troubleshooting
-- Controlled failure testing
-- Configuration validation
+<strong>Environment Capabilities</strong>
 
-The focus is operational reliability and structured system management.
+• Identity & access management  
+• Network segmentation  
+• Windows & Linux administration  
+• Service deployment validation  
+• Log-based troubleshooting  
+• Controlled failure simulation  
 
----
+</td>
 
-## 🖥 Windows Infrastructure & Identity Services
+<td width="50%" valign="top">
 
-🔗 https://github.com/InfoSec01/windows-server-lab
+<strong>Operational Emphasis</strong>
 
-**Core Components**
-- Active Directory Domain Services
-- DNS integration
-- DHCP configuration
-- Group Policy management
-- Windows client domain integration
+• Authentication diagnostics  
+• DNS & connectivity troubleshooting  
+• Policy enforcement validation  
+• Permission auditing  
+• Cross-platform administration  
+• Structured issue resolution  
 
-**Operational Focus**
-- Authentication troubleshooting
-- Name resolution diagnostics
-- Policy validation
-- Permission conflict resolution
-- Controlled rollback testing
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Network Operations & Segmentation
+## 🖥 Windows Infrastructure & Identity Services  
+🔗 https://github.com/InfoSec01/windows-server-lab  
 
-🔗 https://github.com/InfoSec01/Network-Administration
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Core Components**
-- VLAN segmentation
-- Inter-VLAN routing
-- NAT configuration
-- Traffic analysis
-- Packet inspection
+<strong>Core Components</strong>
 
-**Operational Focus**
-- Layer-based troubleshooting
-- Connectivity validation
-- Routing verification
-- Network diagnostics
+• Active Directory Domain Services  
+• DNS integration  
+• DHCP configuration  
+• Group Policy management  
+• Domain-joined Windows client  
 
----
+</td>
 
-## 🐧 Linux Systems Operations
+<td width="50%" valign="top">
 
-🔗 https://github.com/InfoSec01/linux-administration
+<strong>Operational Focus</strong>
 
-**Core Components**
-- User & group management
-- File permissions
-- SSH configuration
-- Service management
-- Log monitoring
-- Backup automation
+• Domain join troubleshooting  
+• DNS resolution diagnostics  
+• GPO scoping validation  
+• File permission conflict resolution  
+• Access enforcement testing  
 
-**Operational Focus**
-- System reliability
-- Access control enforcement
-- Log-driven diagnostics
-- Recovery validation
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔐 Security & Defensive Controls
+## 🌐 Network Operations & Segmentation  
+🔗 https://github.com/InfoSec01/Network-Administration  
 
-🔗 https://github.com/InfoSec01/information-security
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Core Components**
-- Firewall configuration
-- Web application hardening
-- Intrusion detection
-- Authentication modeling
-- Encryption & hashing
+<strong>Core Components</strong>
 
-**Operational Focus**
-- Layered defense validation
-- Traffic monitoring
-- Security boundary enforcement
-- Log correlation
+• VLAN segmentation  
+• Inter-VLAN routing  
+• NAT configuration  
+• Packet inspection  
+• Traffic flow validation  
+
+</td>
+
+<td width="50%" valign="top">
+
+<strong>Operational Focus</strong>
+
+• Layer-based troubleshooting  
+• Connectivity verification  
+• Routing validation  
+• IP conflict identification  
+• DNS dependency analysis  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🐧 Linux Systems Operations  
+🔗 https://github.com/InfoSec01/linux-administration  
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<strong>Core Components</strong>
+
+• User & group management  
+• File permission structuring  
+• SSH configuration  
+• Service lifecycle management  
+• Log monitoring  
+
+</td>
+
+<td width="50%" valign="top">
+
+<strong>Operational Focus</strong>
+
+• Access control enforcement  
+• Log-driven diagnostics  
+• Service dependency validation  
+• System reliability testing  
+• Backup & recovery verification  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔐 Security & Defensive Controls  
+🔗 https://github.com/InfoSec01/information-security  
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<strong>Core Components</strong>
+
+• Firewall configuration  
+• Web application hardening  
+• Intrusion detection  
+• Authentication modeling  
+• Encryption validation  
+
+</td>
+
+<td width="50%" valign="top">
+
+<strong>Operational Focus</strong>
+
+• Layered defense testing  
+• Traffic monitoring  
+• Security boundary validation  
+• Access auditing  
+• Log correlation analysis  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠 Engineering Methodology
 
-- Structured troubleshooting approach
-- Service dependency awareness
-- Log-first diagnostics
-- Controlled misconfiguration testing
-- Change validation process
-- Documentation discipline
+<table>
+<tr>
+<td width="33%" valign="top">
+
+• Structured troubleshooting  
+• Log-first diagnostics  
+• Dependency awareness  
+
+</td>
+
+<td width="33%" valign="top">
+
+• Controlled misconfiguration testing  
+• Change validation process  
+• Incident isolation workflow  
+
+</td>
+
+<td width="33%" valign="top">
+
+• Documentation discipline  
+• Repeatable configuration steps  
+• Operational reliability focus  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Role Alignment
 
-- IT Support Specialist (L1/L2)
-- Service Desk Analyst
-- Infrastructure Support Engineer
-- Technical Support Engineer
-- Systems Support Engineer
-- Desktop Support Engineer
-- NOC Engineer (Junior)
-- Junior Windows Administrator
-- Junior Linux Administrator
-- IT Operations Specialist
+<table>
+<tr>
+<td width="33%" valign="top">
+
+• IT Support Specialist (L1/L2)  
+• Service Desk Analyst  
+• Desktop Support Engineer  
+
+</td>
+
+<td width="33%" valign="top">
+
+• Infrastructure Support Engineer  
+• Systems Support Engineer  
+• Technical Support Engineer  
+
+</td>
+
+<td width="33%" valign="top">
+
+• Junior Windows Administrator  
+• Junior Linux Administrator  
+• NOC Engineer (Junior)  
+• IT Operations Specialist  
+
+</td>
+</tr>
+</table>
 
 ---
 
