@@ -16,7 +16,7 @@ IT Infrastructure • Systems Administration • Network Operations
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=22&center=true&vCenter=true&width=900&lines=Enterprise+Infrastructure+Simulation;Structured+Troubleshooting+Methodology;Identity+%7C+Network+%7C+System+Operations" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=22&center=true&vCenter=true&width=1000&lines=Enterprise+Infrastructure+Simulation;Structured+Troubleshooting+Methodology;Identity+%7C+Network+%7C+System+Operations" />
 </p>
 
 ---
@@ -25,11 +25,13 @@ IT Infrastructure • Systems Administration • Network Operations
 
 This repository serves as a structured hub for enterprise-style infrastructure simulations built to reflect real-world IT Support, Infrastructure, and Operations environments.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-<strong>Environment Capabilities</strong>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="padding:20px">
+
+<strong>Environment Capabilities</strong><br><br>
 
 • Identity & access management  
 • Network segmentation  
@@ -40,9 +42,9 @@ This repository serves as a structured hub for enterprise-style infrastructure s
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:20px">
 
-<strong>Operational Emphasis</strong>
+<strong>Operational Emphasis</strong><br><br>
 
 • Authentication diagnostics  
 • DNS & connectivity troubleshooting  
@@ -60,11 +62,13 @@ This repository serves as a structured hub for enterprise-style infrastructure s
 ## 🖥 Windows Infrastructure & Identity Services  
 🔗 https://github.com/InfoSec01/windows-server-lab  
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-<strong>Core Components</strong>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="padding:20px">
+
+<strong>Core Components</strong><br><br>
 
 • Active Directory Domain Services  
 • DNS integration  
@@ -74,9 +78,9 @@ This repository serves as a structured hub for enterprise-style infrastructure s
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:20px">
 
-<strong>Operational Focus</strong>
+<strong>Operational Focus</strong><br><br>
 
 • Domain join troubleshooting  
 • DNS resolution diagnostics  
@@ -93,11 +97,13 @@ This repository serves as a structured hub for enterprise-style infrastructure s
 ## 🌐 Network Operations & Segmentation  
 🔗 https://github.com/InfoSec01/Network-Administration  
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-<strong>Core Components</strong>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="padding:20px">
+
+<strong>Core Components</strong><br><br>
 
 • VLAN segmentation  
 • Inter-VLAN routing  
@@ -107,9 +113,9 @@ This repository serves as a structured hub for enterprise-style infrastructure s
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:20px">
 
-<strong>Operational Focus</strong>
+<strong>Operational Focus</strong><br><br>
 
 • Layer-based troubleshooting  
 • Connectivity verification  
@@ -126,11 +132,13 @@ This repository serves as a structured hub for enterprise-style infrastructure s
 ## 🐧 Linux Systems Operations  
 🔗 https://github.com/InfoSec01/linux-administration  
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-<strong>Core Components</strong>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="padding:20px">
+
+<strong>Core Components</strong><br><br>
 
 • User & group management  
 • File permission structuring  
@@ -140,9 +148,9 @@ This repository serves as a structured hub for enterprise-style infrastructure s
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:20px">
 
-<strong>Operational Focus</strong>
+<strong>Operational Focus</strong><br><br>
 
 • Access control enforcement  
 • Log-driven diagnostics  
@@ -159,11 +167,13 @@ This repository serves as a structured hub for enterprise-style infrastructure s
 ## 🔐 Security & Defensive Controls  
 🔗 https://github.com/InfoSec01/information-security  
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-<strong>Core Components</strong>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="padding:20px">
+
+<strong>Core Components</strong><br><br>
 
 • Firewall configuration  
 • Web application hardening  
@@ -173,9 +183,9 @@ This repository serves as a structured hub for enterprise-style infrastructure s
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:20px">
 
-<strong>Operational Focus</strong>
+<strong>Operational Focus</strong><br><br>
 
 • Layered defense testing  
 • Traffic monitoring  
@@ -191,28 +201,24 @@ This repository serves as a structured hub for enterprise-style infrastructure s
 
 ## 🛠 Engineering Methodology
 
-<table>
+<br>
+
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top" style="padding:20px">
 
 • Structured troubleshooting  
 • Log-first diagnostics  
 • Dependency awareness  
+• Controlled misconfiguration testing  
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top" style="padding:20px">
 
-• Controlled misconfiguration testing  
 • Change validation process  
 • Incident isolation workflow  
-
-</td>
-
-<td width="33%" valign="top">
-
 • Documentation discipline  
-• Repeatable configuration steps  
 • Operational reliability focus  
 
 </td>
@@ -223,26 +229,23 @@ This repository serves as a structured hub for enterprise-style infrastructure s
 
 ## 🎯 Role Alignment
 
-<table>
+<br>
+
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top" style="padding:20px">
 
 • IT Support Specialist (L1/L2)  
 • Service Desk Analyst  
 • Desktop Support Engineer  
-
-</td>
-
-<td width="33%" valign="top">
-
-• Infrastructure Support Engineer  
-• Systems Support Engineer  
 • Technical Support Engineer  
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top" style="padding:20px">
 
+• Infrastructure Support Engineer  
+• Systems Support Engineer  
 • Junior Windows Administrator  
 • Junior Linux Administrator  
 • NOC Engineer (Junior)  
