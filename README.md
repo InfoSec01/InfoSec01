@@ -26,10 +26,12 @@ IT Infrastructure • Systems Administration • Network Operations
 Enterprise-style infrastructure simulation designed to reflect real-world IT Support, Infrastructure, and NOC operations environments.
 
 **Environment Capabilities:**  
-Identity & access management • Network segmentation • Windows & Linux administration • Service validation • Log-based troubleshooting • Controlled failure simulation  
+ • Identity & access management • Network segmentation • Windows & Linux administration <br>
+ • Service validation • Log-based troubleshooting • Controlled failure simulation  
 
 **Operational Emphasis:**  
-Authentication diagnostics • DNS troubleshooting • Policy enforcement • Permission auditing • Cross-platform administration • Structured issue resolution  
+ • Authentication diagnostics • DNS troubleshooting • Policy enforcement <br>
+ • Permission auditing • Cross-platform administration • Structured issue resolution  
 
 ---
 
@@ -37,10 +39,11 @@ Authentication diagnostics • DNS troubleshooting • Policy enforcement • Pe
 🔗 https://github.com/InfoSec01/windows-server-lab  
 
 **Core Components:**  
-Active Directory Domain Services • DNS • DHCP • Group Policy • Domain-joined client  
+ • Active Directory Domain Services • DNS • DHCP • Group Policy • Domain-joined client  
 
 **Operational Focus:**  
-Domain join troubleshooting • DNS diagnostics • GPO validation • Permission conflict resolution • Access enforcement testing  
+ • Domain join troubleshooting • DNS diagnostics • GPO validation <br>
+ • Permission conflict resolution • Access enforcement testing  
 
 ---
 
@@ -48,10 +51,10 @@ Domain join troubleshooting • DNS diagnostics • GPO validation • Permissio
 🔗 https://github.com/InfoSec01/Network-Administration  
 
 **Core Components:**  
-VLAN segmentation • Inter-VLAN routing • NAT • Packet inspection • Traffic validation  
+ • VLAN segmentation • Inter-VLAN routing • NAT • Packet inspection • Traffic validation  
 
 **Operational Focus:**  
-Layer-based troubleshooting • Connectivity verification • Routing validation • IP conflict detection • DNS dependency analysis  
+ • Layer-based troubleshooting • Connectivity verification • Routing validation • IP conflict detection • DNS dependency analysis  
 
 ---
 
@@ -59,10 +62,10 @@ Layer-based troubleshooting • Connectivity verification • Routing validation
 🔗 https://github.com/InfoSec01/linux-administration  
 
 **Core Components:**  
-User & group management • File permissions • SSH • Service management • Log monitoring  
+ • User & group management • File permissions • SSH • Service management • Log monitoring  
 
 **Operational Focus:**  
-Access control enforcement • Log-driven diagnostics • Service validation • Reliability testing • Backup verification  
+ • Access control enforcement • Log-driven diagnostics • Service validation • Reliability testing • Backup verification  
 
 ---
 
@@ -70,22 +73,24 @@ Access control enforcement • Log-driven diagnostics • Service validation •
 🔗 https://github.com/InfoSec01/information-security  
 
 **Core Components:**  
-Firewall configuration • Hardening • Intrusion detection • Authentication modeling • Encryption validation  
+ • Firewall configuration • Hardening • Intrusion detection • Authentication modeling • Encryption validation  
 
 **Operational Focus:**  
-Layered defense testing • Traffic monitoring • Boundary enforcement • Access auditing • Log correlation  
+ • Layered defense testing • Traffic monitoring • Boundary enforcement • Access auditing • Log correlation  
 
 ---
 
 ## 🛠 Engineering Methodology
 
-Structured troubleshooting • Log-first diagnostics • Dependency awareness • Controlled misconfiguration testing • Change validation • Incident isolation workflow • Documentation discipline  
+ • Structured troubleshooting • Log-first diagnostics • Dependency awareness • Controlled misconfiguration testing <br>
+ • Change validation • Incident isolation workflow • Documentation discipline  
 
 ---
 
 ## 🎯 Role Alignment
 
-IT Support Specialist (L1/L2) • Service Desk Analyst • Desktop Support Engineer • Infrastructure Support Engineer • Systems Support Engineer • Junior Windows Administrator • Junior Linux Administrator • NOC Engineer (Junior) • IT Operations Specialist  
+ • IT Support Specialist • Service Desk Analyst • Desktop Support Engineer • Infrastructure Support Engineer • Systems Support Engineer <br>
+ • Junior Windows Administrator • Junior Linux Administrator • NOC Engineer (Junior) • IT Operations Specialist  
 
 ---
 
