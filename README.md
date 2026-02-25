@@ -89,8 +89,8 @@ Enterprise-style infrastructure simulation designed to reflect real-world IT Sup
 
 ## 🎯 Role Alignment
 
- • IT Support Specialist • Service Desk Analyst • Desktop Support Engineer • Infrastructure Support Engineer • Systems Support Engineer <br>
- • Junior Windows Administrator • Junior Linux Administrator • NOC Engineer (Junior) • IT Operations Specialist  
+ • IT Support Specialist • Service Desk Analyst • Desktop Support Engineer • Infrastructure Support Engineer <br>
+ • Systems Support Engineer • Junior Windows Administrator • Junior Linux Administrator • NOC Engineer (Junior) • IT Operations Specialist  
 
 ---
 
