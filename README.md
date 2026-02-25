@@ -1,12 +1,11 @@
+<h1 align="center">Baratul Khan</h1>
 <p align="center">
-  <img src="https://github.com/InfoSec01/InfoSec01/blob/main/coollogo_com-2895276.png" width="850"/>
+<strong>IT Operations | Linux & Windows Systems | Infrastructure Support</strong>
 </p>
 
-<h1 align="center">Baratul Khan</h1>
-
-<h3 align="center">
-IT Infrastructure • Systems Administration • Network Operations
-</h3>
+<p align="center">
+Structured problem-solving • Production-style lab simulations • Operations-ready mindset
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Infrastructure-2B579A?style=for-the-badge"/>
@@ -19,81 +18,193 @@ IT Infrastructure • Systems Administration • Network Operations
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=22&center=true&vCenter=true&width=1000&lines=Enterprise+Infrastructure+Simulation;Structured+Troubleshooting+Methodology;Identity+%7C+Network+%7C+System+Operations" />
 </p>
 
----
+<hr>
 
-## 🧭 Professional Overview
+<h2>About Me</h2>
 
-Enterprise-style infrastructure simulation designed to reflect real-world IT Support, Infrastructure, and NOC operations environments.
+<p>
+I bring <strong>13+ years of experience</strong> working in regulated healthcare environments where uptime,
+documentation accuracy, and structured escalation processes were critical.
+</p>
 
-**Environment Capabilities:**  
- • Identity & access management • Network segmentation • Windows & Linux administration <br>
- • Service validation • Log-based troubleshooting • Controlled failure simulation  
+<p>
+Today, I am transitioning into <strong>IT Operations and Infrastructure Support</strong>,
+applying operational discipline to system administration, service recovery,
+network troubleshooting, and identity management.
+</p>
 
-**Operational Emphasis:**  
- • Authentication diagnostics • DNS troubleshooting • Policy enforcement • Permission auditing <br>
- • Cross-platform administration • Structured issue resolution  
+<p>
+My labs simulate real-world production conditions:
+</p>
 
----
+<ul>
+  <li>Identity & access control failures</li>
+  <li>Service outages</li>
+  <li>Firewall misconfigurations</li>
+  <li>Network segmentation issues</li>
+  <li>Permission conflicts</li>
+  <li>Log-based root cause analysis</li>
+</ul>
 
-## 🖥 Windows Infrastructure & Identity Services  
-🔗 https://github.com/InfoSec01/windows-server-lab  
+<p>
+Each repository below is structured as a technical case study —
+including architecture decisions, configuration steps, failure simulations, and remediation documentation.
+</p>
 
-**Core Components:**  
- • Active Directory Domain Services • DNS • DHCP • Group Policy • Domain-joined client  
+<hr>
 
-**Operational Focus:**  
- • Domain join troubleshooting • DNS diagnostics • GPO validation <br>
- • Permission conflict resolution • Access enforcement testing  
+<h2>Featured Infrastructure Labs</h2>
 
----
+<br>
 
-## 🌐 Network Operations & Segmentation  
-🔗 https://github.com/InfoSec01/Network-Administration  
+<h3>Enterprise Windows Domain Administration</h3>
+<p><strong>Active Directory • GPO • Identity & Endpoint Control</strong></p>
 
-**Core Components:**  
- • VLAN segmentation • Inter-VLAN routing • NAT • Packet inspection • Traffic validation  
+<p>
+Designed and deployed a Windows Server 2022 domain with centralized identity management,
+Group Policy enforcement, DNS/DHCP configuration, and structured troubleshooting scenarios.
+</p>
 
-**Operational Focus:**  
- • Layer-based troubleshooting • Connectivity verification • Routing validation • IP conflict detection • DNS dependency analysis  
+<ul>
+  <li>AD DS deployment</li>
+  <li>Role-based user & group modeling</li>
+  <li>NTFS & Share permissions</li>
+  <li>USB restriction via GPO</li>
+  <li>Domain join & authentication diagnostics</li>
+</ul>
 
----
+<p>
+<a href="https://github.com/YOUR-USERNAME/REPO-NAME" target="_blank">
+➡ View Full Repository
+</a>
+</p>
 
-## 🐧 Linux Systems Operations  
-🔗 https://github.com/InfoSec01/linux-administration  
+<br>
 
-**Core Components:**  
- • User & group management • File permissions • SSH • Service management • Log monitoring  
+<h3>Linux Systems Administration & Service Recovery</h3>
+<p><strong>Ubuntu • Apache • DNS • Firewalls • Log Analysis</strong></p>
 
-**Operational Focus:**  
- • Access control enforcement • Log-driven diagnostics • Service validation • Reliability testing • Backup verification  
+<p>
+Configured Linux services and simulated controlled outages to practice layered
+diagnostics across service, firewall, and network stacks.
+</p>
 
----
+<ul>
+  <li>User & permission management</li>
+  <li>Apache configuration</li>
+  <li>UFW / Firewalld setup</li>
+  <li>Service failure simulation</li>
+  <li>Structured recovery documentation</li>
+</ul>
 
-## 🔐 Security & Defensive Controls  
-🔗 https://github.com/InfoSec01/information-security  
+<p>
+<a href="https://github.com/YOUR-USERNAME/REPO-NAME" target="_blank">
+➡ View Full Repository
+</a>
+</p>
 
-**Core Components:**  
- • Firewall configuration • Hardening • Intrusion detection • Authentication modeling • Encryption validation  
+<br>
 
-**Operational Focus:**  
- • Layered defense testing • Traffic monitoring • Boundary enforcement • Access auditing • Log correlation  
+<h3>Network Segmentation & Traffic Control</h3>
+<p><strong>VLANs • ACLs • Routing • GNS3 Topology</strong></p>
 
----
+<p>
+Designed segmented enterprise-style networks with VLAN isolation,
+inter-VLAN routing, and access control enforcement.
+</p>
 
-## 🛠 Engineering Methodology
+<ul>
+  <li>VLAN configuration</li>
+  <li>ACL enforcement</li>
+  <li>Static IP planning</li>
+  <li>DHCP/DNS validation</li>
+  <li>Traffic testing & packet inspection</li>
+</ul>
 
- • Structured troubleshooting • Log-first diagnostics • Dependency awareness • Controlled misconfiguration testing <br>
- • Change validation • Incident isolation workflow • Documentation discipline  
+<p>
+<a href="https://github.com/YOUR-USERNAME/REPO-NAME" target="_blank">
+➡ View Full Repository
+</a>
+</p>
 
----
+<br>
 
-## 🎯 Role Alignment
+<h3>Monitoring, Vulnerability Assessment & Log Correlation</h3>
+<p><strong>Nmap • OpenVAS • Wireshark • Snort • Wazuh</strong></p>
 
- • IT Support Specialist • Service Desk Analyst • Desktop Support Engineer • Infrastructure Support Engineer <br>
- • Systems Support Engineer • Junior Windows Administrator • Junior Linux Administrator • NOC Engineer (Junior) • IT Operations Specialist  
+<p>
+Performed vulnerability assessments and correlated attack activity using IDS/SIEM tools,
+documenting remediation aligned to operational risk reduction.
+</p>
 
----
+<ul>
+  <li>Vulnerability scanning</li>
+  <li>Controlled exploitation testing</li>
+  <li>Packet analysis</li>
+  <li>IDS/SIEM monitoring</li>
+  <li>Remediation planning</li>
+</ul>
 
-## 📫 Contact
+<p>
+<a href="https://github.com/YOUR-USERNAME/REPO-NAME" target="_blank">
+➡ View Full Repository
+</a>
+</p>
 
-baratulkhan@gmail.com
+<hr>
+
+<h2>Professional Foundation</h2>
+
+<p>
+Before transitioning into IT infrastructure, I supported enterprise healthcare systems
+including Epic, Meditech, and NextGen within structured ticketing environments.
+</p>
+
+<ul>
+  <li>85% first-contact resolution</li>
+  <li>30% workflow efficiency improvement</li>
+  <li>SLA-driven support</li>
+  <li>Escalation discipline</li>
+  <li>SOP documentation</li>
+</ul>
+
+<hr>
+
+<h2>Certifications & Ongoing Development</h2>
+
+<p><strong>Completed</strong></p>
+<ul>
+  <li>Cybersecurity Bootcamp – StackRoute Learning (2024)</li>
+  <li>Microsoft Cybersecurity Analyst – Coursera (2024)</li>
+  <li>Google Cloud Cybersecurity – Coursera (2024)</li>
+  <li>Introduction to Python (2024)</li>
+</ul>
+
+<p><strong>Currently Pursuing</strong></p>
+<ul>
+  <li>CompTIA Linux+</li>
+  <li>CompTIA Security+</li>
+  <li>Evaluating RHCSA / CCNA pathways</li>
+</ul>
+
+<hr>
+
+<h2>Current Career Focus</h2>
+
+<p>
+Seeking entry-level roles in:
+</p>
+
+<ul>
+  <li>IT Support Specialist</li>
+  <li>Service Desk Analyst</li>
+  <li>Infrastructure Support Engineer</li>
+  <li>Junior System Administrator</li>
+  <li>NOC Engineer (Junior)</li>
+  <li>Linux / Windows Support</li>
+</ul>
+
+<p>
+I am ready to contribute within a structured IT team environment
+while continuing to expand into higher-level infrastructure and security responsibilities.
+</p>
