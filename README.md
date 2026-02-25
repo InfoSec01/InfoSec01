@@ -74,7 +74,7 @@ Group Policy enforcement, DNS/DHCP configuration, and structured troubleshooting
 </ul>
 
 <p>
-<a href="https://github.com/YOUR-USERNAME/REPO-NAME" target="_blank">
+<a href="https://github.com/InfoSec01/windows-server-lab/blob/main/README.md" target="_blank">
 ➡ View Full Repository
 </a>
 </p>
@@ -98,7 +98,7 @@ diagnostics across service, firewall, and network stacks.
 </ul>
 
 <p>
-<a href="https://github.com/YOUR-USERNAME/REPO-NAME" target="_blank">
+<a href="https://github.com/InfoSec01/linux-administration/blob/main/README.md" target="_blank">
 ➡ View Full Repository
 </a>
 </p>
@@ -122,7 +122,7 @@ inter-VLAN routing, and access control enforcement.
 </ul>
 
 <p>
-<a href="https://github.com/YOUR-USERNAME/REPO-NAME" target="_blank">
+<a href="https://github.com/InfoSec01/Network-Administration/blob/main/README.md" target="_blank">
 ➡ View Full Repository
 </a>
 </p>
@@ -146,7 +146,7 @@ documenting remediation aligned to operational risk reduction.
 </ul>
 
 <p>
-<a href="https://github.com/YOUR-USERNAME/REPO-NAME" target="_blank">
+<a href="https://github.com/InfoSec01/information-security/blob/main/README.md" target="_blank">
 ➡ View Full Repository
 </a>
 </p>
@@ -178,13 +178,6 @@ including Epic, Meditech, and NextGen within structured ticketing environments.
   <li>Microsoft Cybersecurity Analyst – Coursera (2024)</li>
   <li>Google Cloud Cybersecurity – Coursera (2024)</li>
   <li>Introduction to Python (2024)</li>
-</ul>
-
-<p><strong>Currently Pursuing</strong></p>
-<ul>
-  <li>CompTIA Linux+</li>
-  <li>CompTIA Security+</li>
-  <li>Evaluating RHCSA / CCNA pathways</li>
 </ul>
 
 <hr>
