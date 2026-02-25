@@ -162,8 +162,7 @@ The objective is clarity, structure, and real-world readiness.
 <h2>Contact</h2>
 
 <p>
-If you are hiring for IT Support, Infrastructure, or Junior Systems roles,
-I would welcome the opportunity to contribute and continue growing within a professional IT team.
+Seeking IT Support and Infrastructure roles where operational stability, structured administration, and dependable troubleshooting are valued.
 </p>
 
 <p>
