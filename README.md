@@ -1,203 +1,178 @@
-<h1 align="center">Baratul Khan</h1>
+<h1 align="center" style="color:#2E86C1;">Baratul Khan</h1>
 <p align="center">
-<strong>IT Operations | Linux & Windows Systems | Infrastructure Support</strong>
+  <b>IT Support • Infrastructure • Systems Administration</b>
 </p>
 
 <p align="center">
-Structured problem-solving • Production-style lab simulations • Operations-ready mindset
+  Building enterprise-style lab environments to transition into professional IT Support and Infrastructure roles.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Infrastructure-2B579A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Focus-Networking-1BA0D7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Operations-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Windows_Server-2022-1f2937?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-Lab-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-1f2937?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualization-VirtualBox-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-TCP/IP-1f2937?style=for-the-badge" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=22&center=true&vCenter=true&width=1000&lines=Enterprise+Infrastructure+Simulation;Structured+Troubleshooting+Methodology;Identity+%7C+Network+%7C+System+Operations" />
 </p>
 
-<hr>
+<hr style="border:1px solid #1f2937;">
 
-<h2>About Me</h2>
+<h2>Professional Overview</h2>
 
 <p>
-I bring <strong>13+ years of experience</strong> working in regulated healthcare environments where uptime,
-documentation accuracy, and structured escalation processes were critical.
+I am transitioning into Infrastructure and IT Support roles by building and documenting
+a complete multi-machine virtual enterprise lab environment.
 </p>
 
 <p>
-Today, I am transitioning into <strong>IT Operations and Infrastructure Support</strong>,
-applying operational discipline to system administration, service recovery,
-network troubleshooting, and identity management.
+Rather than relying on theory alone, I focus on hands-on system configuration,
+policy enforcement, troubleshooting, and understanding how real environments operate
+under administrative control.
 </p>
 
 <p>
-My labs simulate real-world production conditions:
+My objective is to contribute as an IT Support or Systems professional who understands
+both user-facing support and backend infrastructure fundamentals.
 </p>
+
+<hr style="border:1px solid #1f2937;">
+
+<h2>Core Technical Capabilities</h2>
 
 <ul>
-  <li>Identity & access control failures</li>
-  <li>Service outages</li>
-  <li>Firewall misconfigurations</li>
-  <li>Network segmentation issues</li>
-  <li>Permission conflicts</li>
-  <li>Log-based root cause analysis</li>
+  <li><b>Operating Systems:</b> Windows Server 2022, Windows 10, Ubuntu Linux</li>
+  <li><b>Directory Services:</b> Active Directory, Group Policy (GPO)</li>
+  <li><b>User & Access Management:</b> Role-based permissions, shared resources, policy enforcement</li>
+  <li><b>Networking:</b> Static IP configuration, DNS fundamentals, connectivity troubleshooting</li>
+  <li><b>Security Foundations:</b> Log analysis, endpoint restrictions, controlled access models</li>
+  <li><b>Virtualization:</b> Oracle VirtualBox multi-machine lab architecture</li>
+  <li><b>Troubleshooting:</b> Account lockouts, permission conflicts, domain connectivity issues</li>
 </ul>
 
+<hr style="border:1px solid #1f2937;">
+
+<h2>Enterprise Lab Projects</h2>
+
+<h3>Active Directory Domain Environment</h3>
 <p>
-Each repository below is structured as a technical case study —
-including architecture decisions, configuration steps, failure simulations, and remediation documentation.
+Built a fully operational Windows domain (<b>lab.local</b>) using Windows Server 2022 and Windows 10 clients.
+Configured domain joins, organizational units, user/group structures, shared folder permissions,
+and restrictive GPO policies including USB control.
 </p>
 
-<hr>
-
-<h2>Featured Infrastructure Labs</h2>
-
-<br>
-
-<h3>Enterprise Windows Domain Administration</h3>
-<p><strong>Active Directory • GPO • Identity & Endpoint Control</strong></p>
-
 <p>
-Designed and deployed a Windows Server 2022 domain with centralized identity management,
-Group Policy enforcement, DNS/DHCP configuration, and structured troubleshooting scenarios.
-</p>
-
-<ul>
-  <li>AD DS deployment</li>
-  <li>Role-based user & group modeling</li>
-  <li>NTFS & Share permissions</li>
-  <li>USB restriction via GPO</li>
-  <li>Domain join & authentication diagnostics</li>
-</ul>
-
-<p>
-<a href="https://github.com/InfoSec01/windows-server-lab/blob/main/README.md" target="_blank">
-➡ View Full Repository
+🔗 <a href="https://github.com/YOUR-USERNAME/Active-Directory-Lab" target="_blank">
+View Active Directory Lab Repository
 </a>
 </p>
 
-<br>
+<hr style="border:1px solid #1f2937;">
 
-<h3>Linux Systems Administration & Service Recovery</h3>
-<p><strong>Ubuntu • Apache • DNS • Firewalls • Log Analysis</strong></p>
-
+<h3>Windows Security & Policy Enforcement Lab</h3>
 <p>
-Configured Linux services and simulated controlled outages to practice layered
-diagnostics across service, firewall, and network stacks.
+Simulated corporate endpoint security by configuring system policies, reviewing event logs,
+managing access rights, and applying administrative controls to replicate real-world IT governance.
 </p>
 
-<ul>
-  <li>User & permission management</li>
-  <li>Apache configuration</li>
-  <li>UFW / Firewalld setup</li>
-  <li>Service failure simulation</li>
-  <li>Structured recovery documentation</li>
-</ul>
-
 <p>
-<a href="https://github.com/InfoSec01/linux-administration/blob/main/README.md" target="_blank">
-➡ View Full Repository
+🔗 <a href="https://github.com/YOUR-USERNAME/Windows-Security-Lab" target="_blank">
+View Windows Security Lab Repository
 </a>
 </p>
 
-<br>
+<hr style="border:1px solid #1f2937;">
 
-<h3>Network Segmentation & Traffic Control</h3>
-<p><strong>VLANs • ACLs • Routing • GNS3 Topology</strong></p>
-
+<h3>Linux Administration & Hardening Lab</h3>
 <p>
-Designed segmented enterprise-style networks with VLAN isolation,
-inter-VLAN routing, and access control enforcement.
+Installed and configured Ubuntu in a controlled virtual environment.
+Practiced user management, file permissions, SSH configuration, system logging,
+and foundational hardening techniques.
 </p>
 
-<ul>
-  <li>VLAN configuration</li>
-  <li>ACL enforcement</li>
-  <li>Static IP planning</li>
-  <li>DHCP/DNS validation</li>
-  <li>Traffic testing & packet inspection</li>
-</ul>
-
 <p>
-<a href="https://github.com/InfoSec01/Network-Administration/blob/main/README.md" target="_blank">
-➡ View Full Repository
+🔗 <a href="https://github.com/YOUR-USERNAME/Linux-Administration-Lab" target="_blank">
+View Linux Administration Lab Repository
 </a>
 </p>
 
-<br>
+<hr style="border:1px solid #1f2937;">
 
-<h3>Monitoring, Vulnerability Assessment & Log Correlation</h3>
-<p><strong>Nmap • OpenVAS • Wireshark • Snort • Wazuh</strong></p>
-
+<h3>Networking & Infrastructure Fundamentals Lab</h3>
 <p>
-Performed vulnerability assessments and correlated attack activity using IDS/SIEM tools,
-documenting remediation aligned to operational risk reduction.
+Designed segmented virtual networks, assigned static IP configurations,
+validated connectivity between hosts, and documented troubleshooting workflows.
 </p>
 
-<ul>
-  <li>Vulnerability scanning</li>
-  <li>Controlled exploitation testing</li>
-  <li>Packet analysis</li>
-  <li>IDS/SIEM monitoring</li>
-  <li>Remediation planning</li>
-</ul>
-
 <p>
-<a href="https://github.com/InfoSec01/information-security/blob/main/README.md" target="_blank">
-➡ View Full Repository
+🔗 <a href="https://github.com/YOUR-USERNAME/Networking-Lab" target="_blank">
+View Networking Lab Repository
 </a>
 </p>
 
-<hr>
-
-<h2>Professional Foundation</h2>
-
-<p>
-Before transitioning into IT infrastructure, I supported enterprise healthcare systems
-including Epic, Meditech, and NextGen within structured ticketing environments.
-</p>
-
-<ul>
-  <li>85% first-contact resolution</li>
-  <li>30% workflow efficiency improvement</li>
-  <li>SLA-driven support</li>
-  <li>Escalation discipline</li>
-  <li>SOP documentation</li>
-</ul>
-
-<hr>
-
-<h2>Certifications & Ongoing Development</h2>
-
-<p><strong>Completed</strong></p>
-<ul>
-  <li>Cybersecurity Bootcamp – StackRoute Learning (2024)</li>
-  <li>Microsoft Cybersecurity Analyst – Coursera (2024)</li>
-  <li>Google Cloud Cybersecurity – Coursera (2024)</li>
-  <li>Introduction to Python (2024)</li>
-</ul>
-
-<hr>
+<hr style="border:1px solid #1f2937;">
 
 <h2>Current Career Focus</h2>
 
 <p>
-Seeking entry-level roles in:
+Targeting entry-level to junior roles including:
 </p>
 
 <ul>
   <li>IT Support Specialist</li>
   <li>Service Desk Analyst</li>
   <li>Infrastructure Support Engineer</li>
+  <li>Desktop Support Engineer</li>
+  <li>Systems Support Engineer</li>
   <li>Junior System Administrator</li>
-  <li>NOC Engineer (Junior)</li>
-  <li>Linux / Windows Support</li>
+  <li>Junior Windows or Linux Administrator</li>
+  <li>NOC Engineer</li>
 </ul>
 
 <p>
-I am ready to contribute within a structured IT team environment
-while continuing to expand into higher-level infrastructure and security responsibilities.
+I am pursuing industry certifications while continuing to expand my lab
+to reflect enterprise-grade environments.
+</p>
+
+<hr style="border:1px solid #1f2937;">
+
+<h2>Documentation Philosophy</h2>
+
+<p>
+Each repository includes:
+</p>
+
+<ul>
+  <li>Architecture explanation</li>
+  <li>Implementation steps</li>
+  <li>Screenshots and validation checks</li>
+  <li>Issues encountered and resolution process</li>
+  <li>Lessons learned</li>
+</ul>
+
+<p>
+The objective is clarity, structure, and real-world readiness.
+</p>
+
+<hr style="border:1px solid #1f2937;">
+
+<h2>Contact</h2>
+
+<p>
+If you are hiring for IT Support, Infrastructure, or Junior Systems roles,
+I would welcome the opportunity to contribute and continue growing within a professional IT team.
+</p>
+
+<p>
+📩 Email: baratulkhan@gmail.com <br>
+📍 Location: Remote
+</p>
+
+<hr style="border:1px solid #1f2937;">
+
+<p align="center">
+  <i>Structured learning. Practical labs. Professional growth.</i>
 </p>
