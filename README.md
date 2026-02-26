@@ -65,7 +65,8 @@ and restrictive GPO policies including USB control.
 </p>
 
 <p>
-🔗 <a href="https://github.com/YOUR-USERNAME/Active-Directory-Lab" target="_blank">
+🔗 <a href="https://github.com/InfoSec01/windows-server-lab/blob/main/README.md
+/Active-Directory-Lab" target="_blank">
 View Active Directory Lab Repository
 </a>
 </p>
