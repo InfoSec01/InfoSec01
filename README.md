@@ -65,8 +65,7 @@ and restrictive GPO policies including USB control.
 </p>
 
 <p>
-🔗 <a href="https://github.com/InfoSec01/windows-server-lab/blob/main/README.md
-/Active-Directory-Lab" target="_blank">
+🔗 <a href="https://github.com/InfoSec01/windows-server-lab/blob/main/README.md" target="_blank">
 View Active Directory Lab Repository
 </a>
 </p>
@@ -80,7 +79,7 @@ managing access rights, and applying administrative controls to replicate real-w
 </p>
 
 <p>
-🔗 <a href="https://github.com/YOUR-USERNAME/Windows-Security-Lab" target="_blank">
+🔗 <a href="https://github.com/InfoSec01/information-security/blob/main/README.md" target="_blank">
 View Windows Security Lab Repository
 </a>
 </p>
@@ -95,7 +94,7 @@ and foundational hardening techniques.
 </p>
 
 <p>
-🔗 <a href="https://github.com/YOUR-USERNAME/Linux-Administration-Lab" target="_blank">
+🔗 <a href="https://github.com/InfoSec01/linux-administration/blob/main/README.md" target="_blank">
 View Linux Administration Lab Repository
 </a>
 </p>
@@ -109,7 +108,7 @@ validated connectivity between hosts, and documented troubleshooting workflows.
 </p>
 
 <p>
-🔗 <a href="https://github.com/YOUR-USERNAME/Networking-Lab" target="_blank">
+🔗 <a href="https://github.com/InfoSec01/Network-Administration/blob/main/README.md" target="_blank">
 View Networking Lab Repository
 </a>
 </p>
