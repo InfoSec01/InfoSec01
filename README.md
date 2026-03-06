@@ -80,7 +80,7 @@ managing access rights, and applying administrative controls to replicate real-w
 
 <p>
 🔗 <a href="https://github.com/InfoSec01/information-security/blob/main/README.md" target="_blank">
-View Windows Security Lab Repository
+View Information Security Protocols: Access Control & Network Defense
 </a>
 </p>
 
