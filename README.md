@@ -66,7 +66,7 @@ and restrictive GPO policies including USB control.
 
 <p>
 🔗 <a href="https://github.com/InfoSec01/windows-server-lab/blob/main/README.md" target="_blank">
-View Active Directory Lab Repository
+View Windows Server Administration Lab
 </a>
 </p>
 
