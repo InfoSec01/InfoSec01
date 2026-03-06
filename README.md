@@ -80,7 +80,7 @@ managing access rights, and applying administrative controls to replicate real-w
 
 <p>
 🔗 <a href="https://github.com/InfoSec01/information-security/blob/main/README.md" target="_blank">
-View Information Security Protocols: Access Control & Network Defense
+View Information Security Protocols Lab
 </a>
 </p>
 
@@ -95,7 +95,7 @@ and foundational hardening techniques.
 
 <p>
 🔗 <a href="https://github.com/InfoSec01/linux-administration/blob/main/README.md" target="_blank">
-View Linux Administration Lab Repository
+View Linux System Administration Lab
 </a>
 </p>
 
@@ -109,7 +109,7 @@ validated connectivity between hosts, and documented troubleshooting workflows.
 
 <p>
 🔗 <a href="https://github.com/InfoSec01/Network-Administration/blob/main/README.md" target="_blank">
-View Networking Lab Repository
+View Network Administration Lab
 </a>
 </p>
 
